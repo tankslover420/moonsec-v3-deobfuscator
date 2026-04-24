@@ -1,6 +1,6 @@
 # Moonsec Deobfuscator Bot
 
-A standalone Discord bot for deobfuscating MoonSec V3 scripts to Lua source code.
+A standalone Discord bot for fucking moonsec v3 and getting its source code
 
 ## Features
 
